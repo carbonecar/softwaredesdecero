@@ -1,0 +1,39 @@
+#Capitulo uno
+##Una idea, tu primer exito.
+
+Durante todo este libro vamos a basarnos en una idea. No solo construiremos software desde cero, sino
+que tamien vamos a materializar nuestra idea.
+La idea de este libro se llama "minipos". Minipos es nuestro pequeno producto que a lo largo de este
+libro vamos a ir agregandole valor y haciendolo una version productiva.
+
+En esta instancia no sabemos nada, no sabemos programar, no sabemos disenar, no sabemos de procesos
+de desarrollo. Solo tenemos esa idea, que creemos que puede trinfuar. Lo unico que sabemos es que
+vamos a tener exito!!!. Es por esto que asumiremos que en cada paso nuestro producto tiene un feedback
+del mercado positivo, quizas podamos dedicar un capitulo sobre que hacer cuando tenemos un impacto
+negativo en el mercado y como modificar nuestra idea, pero de momento demos ese salto de fe!.
+
+
+### Y...que es minipos?
+Minipos es un nombre, es el nombre de EL PRODUCTO, ese EXITO, que vamos a tener. Ahora bien, porque minipos??!!!
+Bueno, la idea es tener un nombre, que nos guste, que sea abstracto, lo suficiente para saber que si cambiamos
+de parecer podemos modificarlo, sin necesidad de tener que cambiar el nombre. Como Apple!!!, si, podria hacer
+software asi como tambien tortas!.
+
+### Ahora en serio,, que es minipos!!!.
+Si, luego de esta introduccion nos llego el momento de contar la idea. Minipos es un software que
+nos va a permitir centralizar la logica de negocio de todas las transacciones que se realicen.
+En realidad va a ser mucho mas, pero ese sera nuesto corazon del negocio, luego alrededor de el, construiremos
+infinidad de funcionalidades haciendolo crecer.
+
+Ya que tenemos la idea, ahora vamos a dibujar lo que queremos.
+
+
+
+
+
+
+
+
+
+Como podemos ver en este dibujo, no hay mucho!!! y esa es la idea, es empezar con poco!!!, simple!!!.
+Tenemos un usuario, mejor usuaria, la llamaremos Pipa. Pipa crea una transaccion por un dispositivo, al que llamamos, DiPos.
