@@ -1,1 +1,9 @@
-capitulo1.txt
+Introduccion.txt
+Validando nuestra idea.txt
+Generando un equipo.txt
+Inception.txt
+Obteniendo nuestras historias.txt
+Modelando.txt
+Generando la arquitectura.txt
+Programando.txt
+Goto "Obteniendo nuestras historias".txt 
