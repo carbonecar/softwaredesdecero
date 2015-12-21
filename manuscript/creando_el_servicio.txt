@@ -1,0 +1,10 @@
+Creando un servicio.
+
+En este ejemplo usamos json para crear el servicio con soporte de spring boot.
+REST o SOAP?
+En este paso elegimos REST. Elegimos REST, porque nos provee los siguientes atributos:
+a)flexible
+b)negociable
+c)Intefaces descubribles.
+
+En el Apendice I. SOAP vs REST justificamos nuestra eleccion.
