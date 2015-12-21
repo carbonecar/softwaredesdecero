@@ -2,8 +2,12 @@ Introduccion.txt
 Validando nuestra idea.txt
 Generando un equipo.txt
 Inception.txt
+generando_el_entorno_de_desarrollo.txt
+creando_el_servicio.txt
 Obteniendo nuestras historias.txt
 Modelando.txt
 Generando la arquitectura.txt
 Programando.txt
-Goto "Obteniendo nuestras historias".txt 
+Goto "Obteniendo nuestras historias".txt
+
+Anexo I SOAP vs REST
