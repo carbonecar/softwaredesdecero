@@ -7,4 +7,14 @@ a)flexible
 b)negociable
 c)Intefaces descubribles.
 
+Ahora que sabemos que va a ser un servicio REST tenemos otra pregunta, sera json o xml?. Bueno
+como no pudimos decidirnos, vamos ponerle ambos.
+
+
+
+
+Luego de agregar las annotations podemos verificar que funcionan ambos requests.
+http://localhost:8080/transaccion/registrarconsumo.xml
+http://localhost:8080/transaccion/registrarconsumo.json
+
 En el Apendice I. SOAP vs REST justificamos nuestra eleccion.
