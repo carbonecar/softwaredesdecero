@@ -1,0 +1,12 @@
+Y el testing?
+Durante varias decadas nos han machacado que hay que testear, primero fue una unidad separada de
+testing, luego alguien "mal creyo" que los testing unitarios eran los salvadores, luego aparecieron
+los testing de integracion y sigue... y sigue....
+
+Se podrian escribir varios libros de testing, no es la idea de este. Aqui vamos agregar unos
+simples test unitarios a nuestro servicio.
+La discucion sobre que es unitario y que no tambien es larga.... nuevamente aqui vamos a testear
+lo que nos interesa para el producto que construimos, al fin y al cabo, lo que nos trajo aqui, fue
+la  idea de tener un producto, y eso es lo que vamos a asegurar que siempre este "sano", EL PRODUCTO.
+
+Testeando el servicio.
