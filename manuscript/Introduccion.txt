@@ -1,4 +1,4 @@
-#Una idea, tu primer exito.
+# Una idea, tu primer exito.
 
 Durante todo este libro vamos a basarnos en una idea. No solo construiremos software desde cero, sino
 que tamien vamos a materializar nuestra idea.
@@ -12,13 +12,13 @@ del mercado positivo, quizas podamos dedicar un capitulo sobre que hacer cuando 
 negativo en el mercado y como modificar nuestra idea, pero de momento demos ese salto de fe!.
 
 
-### Y...que es minipos?
+## Y...que es minipos?
 Minipos es un nombre, es el nombre de EL PRODUCTO, ese EXITO, que vamos a tener. Ahora bien, porque minipos??!!!
 Bueno, la idea es tener un nombre, que nos guste, que sea abstracto, lo suficiente para saber que si cambiamos
 de parecer podemos modificarlo, sin necesidad de tener que cambiar el nombre. Como Apple!!!, si, podria hacer
 software asi como tambien tortas!.
 
-### Ahora en serio,, que es minipos!!!.
+## Ahora en serio,, que es minipos!!!.
 Si, luego de esta introduccion nos llego el momento de contar la idea. Minipos es un software que
 nos va a permitir centralizar la logica de negocio de todas las transacciones que se realicen.
 En realidad va a ser mucho mas, pero ese sera nuesto corazon del negocio, luego alrededor de el, construiremos
