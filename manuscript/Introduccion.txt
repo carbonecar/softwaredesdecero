@@ -1,5 +1,4 @@
-#Capitulo uno
-##Una idea, tu primer exito.
+#Una idea, tu primer exito.
 
 Durante todo este libro vamos a basarnos en una idea. No solo construiremos software desde cero, sino
 que tamien vamos a materializar nuestra idea.
