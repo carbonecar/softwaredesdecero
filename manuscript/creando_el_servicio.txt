@@ -27,6 +27,3 @@ Ahora concatenando comando con el operador | quedaria algo como:
 curl http://localhost:8080/transaccion/registrarconsumo.xml | python -m json.tool
 
 En el Apendice I. SOAP vs REST justificamos nuestra eleccion.
-
-
-http://localhost:8080/jhoeller/bookmarks/{"description": "A description","id": 1,"uri": "http://bookmark.com/1/jhoeller"}

@@ -9,5 +9,8 @@ Modelando.txt
 Generando la arquitectura.txt
 Programando.txt
 Goto "Obteniendo nuestras historias".txt
+calidad.txt
 
-Anexo I SOAP vs REST
+anexo1_soap_vs_rest
+
+referencias.txt
