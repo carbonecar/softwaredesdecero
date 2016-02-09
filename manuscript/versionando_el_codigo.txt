@@ -1,0 +1,2 @@
+Aqui un excelente tutorial sobre como utilizar git para versionar el codigo .
+http://githowto.com/
