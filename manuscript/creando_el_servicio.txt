@@ -21,11 +21,11 @@ http://localhost:8080/transaccion/registrarconsumo.json
 
 Una forma simple y practica es utilizar la herramienta curl que ya viene con el sistema operativo,
 normalmente linux y mac
-si hacemos <pre><code>curl http://localhost:8080/transaccion/registrarconsumo.xml</code></pre> obtenemos el resultado
-de nuestra operacion. Ahora bien, si queremos obtenerlo con algun formato simple podemos usar
+si hacemos
+    http://localhost:8080/transaccion/registrarconsumo.xml
+obtenemos el resultado de nuestra operacion. Ahora bien, si queremos obtenerlo con algun formato simple podemos usar
 (desde la version 2.6 de python) el siguiente comando: python -m json.tool.
 Ahora concatenando comando con el operador | quedaria algo como:
-
-<pre><code>curl http://localhost:8080/transaccion/registrarconsumo.xml | python -m json.tool</code></pre>
+    http://localhost:8080/transaccion/registrarconsumo.xml | python -m json.tool
 
 En el Apendice I. SOAP vs REST justificamos nuestra eleccion.
